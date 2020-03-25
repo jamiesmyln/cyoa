@@ -1,0 +1,12 @@
+.chapter {
+  display: none;
+}
+
+.chapter.active {
+  display: block;
+  margin-top: 25%;
+}
+
+.char-name {
+  font-weight: bold;
+}
